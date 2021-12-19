@@ -16,4 +16,4 @@ Skills: C++ / VB.NET / Phyton / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdinan-ops&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ferdinan-ops)  
+
