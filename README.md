@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ferdinan
+### Hi There 👋, My Name is Ferdinan
 
 ![panel](https://user-images.githubusercontent.com/84588706/140006036-24fc177d-45bb-40bb-ba1b-8ef8dff8eedd.png)
 
