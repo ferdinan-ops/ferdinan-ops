@@ -6,7 +6,7 @@ I am Ferdinan from Indonesian and I create content about websites, Visual Basic.
 like visual basic .NET, C++, java, python, etc, and create an attractive website.
 
 
-Skills: C++ / VB.NET / Phyton / HTML / CSS
+Skills: C++ / VB.NET / Java / HTML / CSS
 
 
 
