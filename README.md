@@ -3,10 +3,10 @@
 ![panel](https://user-images.githubusercontent.com/84588706/140006036-24fc177d-45bb-40bb-ba1b-8ef8dff8eedd.png)
 
 I am Ferdinan from Indonesian and I create content about websites, Visual Basic.NET and Design. I really enjoy learning programming languages 
-like visual basic .NET, C++, java, python, etc, and create an attractive website.
+like visual basic .NET, C++, Javascript, java, etc, and create an attractive website.
 
 
-Skills: C++ / VB.NET / Java / HTML / CSS
+Skills: C++ / VB.NET / Javascript / HTML / CSS
 
 
 
