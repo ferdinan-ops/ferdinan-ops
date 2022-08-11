@@ -1,6 +1,7 @@
 ### Hi There 👋, My Name is Ferdinan Imanuel Tumanggor
 
-![panel](https://user-images.githubusercontent.com/84588706/140006036-24fc177d-45bb-40bb-ba1b-8ef8dff8eedd.png)
+/* ![panel](https://user-images.githubusercontent.com/84588706/140006036-24fc177d-45bb-40bb-ba1b-8ef8dff8eedd.png) */
+/* ![panel](https://images.unsplash.com/photo-1593720216276-0caa6452e004?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1256&q=80) */
 
 I am Ferdinan from Indonesian and I create content about websites, Visual Basic.NET and Design. I really enjoy learning programming languages 
 like visual basic .NET, C++, Javascript, java, etc, and create an attractive website.
