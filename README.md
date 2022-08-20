@@ -8,8 +8,6 @@ like visual basic .NET, C++, Javascript, java, etc, and create an attractive web
 
 Skills: VB.NET / Javascript / HTML / CSS / React Js / Next Js / Node Js 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdinan-ops)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdinan-ops&show_icons=true)  
 
 
