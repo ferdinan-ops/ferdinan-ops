@@ -6,11 +6,7 @@ I am Ferdinan from Indonesian and I create content about websites, Visual Basic.
 like visual basic .NET, C++, Javascript, java, etc, and create an attractive website.
 
 
-Skills: VB.NET / Javascript / HTML / CSS / React Js / Node Js
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ferdinan-ops)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Ferdinan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ferdinan.tumanggor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.youtube.com/channel/UCrYTRyH4bFhks-K4PhxQxLg)  
+Skills: VB.NET / Javascript / HTML / CSS / React Js / Next Js / Node Js 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdinan-ops)](https://github.com/anuraghazra/github-readme-stats)
 
